@@ -1,1 +1,1 @@
-# badge.xoz
+# badge.xo
